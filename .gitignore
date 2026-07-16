@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Streamlit/runtime artifacts
+streamlit-app/temp_file.jpg
+
+# Environment files
+.env
+.env.*
